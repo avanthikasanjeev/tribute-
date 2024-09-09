@@ -1,0 +1,84 @@
+h1{
+  border: none;
+    padding: none;
+    padding-top: 2%;
+    font-size: 50px;
+    color: #8ab8ff;
+    text-align: center;
+
+}
+.navbar{
+  padding-top: 0%;
+  text-align: center;
+  color: yellow;
+}
+h2{
+  border: none;
+    padding: none;
+    font-size: 27px;
+    text-align: center;
+}
+body{
+  background-color: rgb(23, 158, 211);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: none;
+    border: none;
+    align-content: center;
+}
+main{
+  margin: 30px 10px;
+  padding: 20px;
+  border-radius: 35px;
+  background: white
+}
+h3 {
+  padding-top: 5%;
+  padding-bottom: 3%;
+  font-size: 23px;
+  align-content: center;
+  text-align: center;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  align-content: center;
+  margin: none;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+.img-caption {
+  font-size: medium;
+  text-align: center;
+  padding: 1.5%;
+}
+.Abdul-Kalam {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  align-items: center;
+      
+}
+.wikipedia-entry {
+  padding-top: 2%;
+  color: #8ab8ff;
+}
+.wikipedia-entry:visited {
+    color: blue;
+  }
+  
+  .wikipedia-entry:hover {
+    color: #bbbdbf;
+  }
+  
+  .wikipedia-entry:active {
+    color: #8ab8ff;
+  }
+  
